@@ -1,4 +1,4 @@
-package Arraysss;
+
 public class Subarray
 {
     public static void subarray(int numbers[]){

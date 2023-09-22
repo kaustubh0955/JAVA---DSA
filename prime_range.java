@@ -1,4 +1,4 @@
-package Functions;
+
 import java.util.*;
 public class prime_range {
 public static boolean isPrime(int n){

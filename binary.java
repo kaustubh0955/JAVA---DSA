@@ -1,4 +1,4 @@
-package Arraysss;
+
 import java.util.*;
 public class binary
 {
