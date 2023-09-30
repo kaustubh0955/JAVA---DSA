@@ -12,7 +12,7 @@ return;
   printdec(n-1);
   }
   
-  public static void amin(String args[]){
+  public static void main(String args[]){
   
   int n=10;
   printdec(n);
