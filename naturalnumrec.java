@@ -1,8 +1,8 @@
 import java.util.*;
 public class naturalnumrec {
 public static int Sum(int n){
-if(n==0){
-return 0;
+if(n==1){
+return 1;
 
 }
 int snm1=Sum(n-1);
