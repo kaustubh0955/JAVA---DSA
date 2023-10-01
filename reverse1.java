@@ -26,4 +26,8 @@ class Solution {
         Solution solution = new Solution();
         System.out.println(solution.reverseWords(s));
     }
+
+    public char[] isPowerOfTwo(int n) {
+      return null;
+    }
 }
