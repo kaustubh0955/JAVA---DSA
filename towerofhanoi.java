@@ -3,7 +3,7 @@ public class towerofhanoi {
   
   public static void toh(int n,String first,String second,String third){
   if(n==1){
-  System.out.println("Transfer of disk " +n+ "from" +first+ "to" +third);
+  System.out.println("Transfer of disk " +n+ "from" +first+ "to"+third);
   return;
   }
 
