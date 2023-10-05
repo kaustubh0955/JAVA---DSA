@@ -30,4 +30,8 @@ class Solution {
     public char[] isPowerOfTwo(int n) {
       return null;
     }
+
+    public char[] isPowerOfFour(int n) {
+      return null;
+    }
 }
