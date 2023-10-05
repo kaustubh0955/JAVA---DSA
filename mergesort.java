@@ -47,7 +47,6 @@ while(j<=ei){
 temp[k++]=arr[j++];
 }
 
-//copy temp to original arr
 
 }
 
