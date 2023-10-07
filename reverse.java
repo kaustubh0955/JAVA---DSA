@@ -4,7 +4,6 @@
 public class reverse
 
 {
-    
     public static void reverseNumber(int numbers[]){
         int first=0,last=numbers.length-1;
         
