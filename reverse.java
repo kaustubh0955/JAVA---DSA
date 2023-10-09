@@ -16,7 +16,6 @@ public class reverse
             first++;
             last--;
         }
-        
     }
     
 	public static void main(String[] args) {
