@@ -17,9 +17,9 @@ public class binary
             if(numbers[mid]<key){
                 start=mid+1;
             }else{
-                end=mid-1;
-                
+                end=mid-1; 
             }
+
         }
         return -1;
         
@@ -28,6 +28,7 @@ public class binary
 	public static void main(String[] args) {
 		int numbers[]={2,4,6,8,10,12,14};
 		int key=10;
+        int j=9;
 		
 		System.out.println(binarySearch(numbers,key));
 	}
